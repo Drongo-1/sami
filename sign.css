@@ -1,0 +1,44 @@
+
+body{
+    background-image: url('a11.jpg');
+    overflow: scroll;
+}
+label,input{
+    display: table-cell;
+    text-align: center;
+    
+}
+form{
+    width: 650px;
+    height: 400px;
+     background-color: rgb(255, 255, 255);
+     margin-left: 38%;
+     text-align: center;
+}
+li >a:hover{
+    background-color: skyblue;
+    padding: 4px;
+    border-radius: 4px;
+
+}
+li >a{
+    margin-bottom: 50px;
+    text-align: center;
+    list-style: none;
+}
+button{
+    color: white;
+    padding: 14px 20px;
+    cursor: pointer;
+    background-color: skyblue;
+    border-radius: 40px;
+}
+button:hover{
+    opacity: 0.1;
+}
+label{
+    padding-top: 10px;
+}
+cancelbtn{
+    margin-right: 10px;
+}

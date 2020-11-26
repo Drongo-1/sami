@@ -1,0 +1,50 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-image: url('a11.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#img0 a{
+    font-size: 30px;
+    color: black;
+    float: left;
+}
+span{
+    font-size: 50px;
+    margin-left: 300px;
+    color: rgb(255, 0, 0);
+}
+#a1{
+    height: 600px;
+}
+form{
+    margin-top: 200px;
+    margin-left: 500px;
+}
+label,input{
+    margin-top: 20px;
+    padding: 3px;
+    font-size: 30px;  
+}
+#d1{
+    font-size: 30px;
+    text-align: center;
+    margin-top: 10px;
+}
+#d2{
+    text-align: center;
+    font-size: 20px;
+}
+#d2 a{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    color: black;
+}
+#d2 a:hover{
+    background-color: skyblue;
+    padding: 2px;
+    border-radius: 4px;
+}
